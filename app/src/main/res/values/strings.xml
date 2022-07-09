@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CVMobileApp</string>
+    <string name="fecha">16 de Septiembre, 1985</string>
+    <string name="telefono">+51 912-659-101</string>
+    <string name="casa">Lima, Peru</string>
+    <string name="email">csar09@gmail.com</string>
+    <string name="linkedin">https://www.linkedin.com/in/cesaralva-2020/</string>
+    <string name="Experience">Experience</string>
+    <string name="cesaralva">CesarAlva</string>
+    <string name="background">Background</string>
+    <string name="education">Education</string>
+    <string name="developer">Movile Developer and JavaScript Developer</string>
+    <string name="description">IT Support Manager withdrew than 7 years of experience leading IT teams and implementing tools,using new technologies, Also a student of Javascript, NodeJS, ReactJS</string>
+    <string name="fehassenati">2020-2021</string>
+    <string name="cei">Computacion e Informatica</string>
+</resources>
